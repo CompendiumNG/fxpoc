@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.Accordion?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.web.*?>
+
+<GridPane alignment="CENTER" hgap="10.0" prefHeight="910.0" prefWidth="1180.0" vgap="10.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="org.compendiumng.fxpoc.Controller">
+  <columnConstraints>
+    <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" />
+  </columnConstraints>
+  <rowConstraints>
+    <RowConstraints minHeight="10.0" vgrow="SOMETIMES" />
+  </rowConstraints>
+  <TabPane prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" GridPane.columnIndex="0" GridPane.rowIndex="0">
+    <tabs>
+      <Tab onSelectionChanged="#firsttabchanged" text="web browser">
+        <content>
+          <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+            <children>
+              <WebView layoutX="0.0" layoutY="0.0" prefHeight="874.0" prefWidth="1180.0" />
+            </children>
+          </AnchorPane>
+        </content>
+      </Tab>
+      <Tab onSelectionChanged="#tabchanged" text="Untitled Tab 2">
+        <content>
+          <AnchorPane id="Content" minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+            <children>
+              <TableView layoutX="0.0" layoutY="674.0" prefHeight="200.0" prefWidth="1180.0">
+                <columns>
+                  <TableColumn prefWidth="75.0" text="Column X" />
+                  <TableColumn prefWidth="75.0" text="Column X" />
+                  <TableColumn prefWidth="75.0" text="Column X" />
+                  <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="561.0" text="Column X">
+                    <contextMenu>
+                      <ContextMenu>
+                        <items>
+                          <MenuItem mnemonicParsing="false" text="Unspecified Action" />
+                          <MenuItem mnemonicParsing="false" text="Unspecified Action" />
+                          <MenuItem mnemonicParsing="false" onAction="#dosomething" text="Unspecified Action" />
+                        </items>
+                      </ContextMenu>
+                    </contextMenu>
+                  </TableColumn>
+                  <TableColumn maxWidth="5000.0" minWidth="10.0" prefWidth="395.0" text="Column X" />
+                </columns>
+              </TableView>
+              <HTMLEditor htmlText="&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body contenteditable=&quot;true&quot;&gt;&lt;/body&gt;&lt;/html&gt;" layoutX="0.0" layoutY="0.0" prefHeight="674.0" prefWidth="1180.0" />
+            </children>
+          </AnchorPane>
+        </content>
+      </Tab>
+    </tabs>
+  </TabPane>
+</GridPane>
