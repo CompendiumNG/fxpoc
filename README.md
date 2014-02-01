@@ -8,7 +8,7 @@ feasible to use JavaFX as the next UI framework for CompendiumNG
 prerequisites
 =============
 java JDK 1.7.0 u51
-gradle (optional since gradlewrapper is included)
+gradle
 
 
 how to build
@@ -21,20 +21,10 @@ gradle build
 how to run it
 =============
 
-
-linux & Mac
-===========
-
 java -jar ./build/fxpoc-...jar
 or 
-./gradlew run
+gradle run
 
 
-Windows
-=======
-
-java -jar .\build\fxpoc-...jar
-or
-gradlew.bat run
 
 
