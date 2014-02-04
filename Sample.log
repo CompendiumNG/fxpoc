@@ -1,0 +1,366 @@
+2014-02-02 01:39:48,720 INFO [JavaFX-Launcher] o.j.c.r.i.MessageBuilder [MessageBuilder.java:103] 1 Messages file found.
+2014-02-02 01:39:48,722 INFO [JavaFX-Launcher] o.j.c.r.i.MessageBuilder [MessageBuilder.java:126] Store ResourceBundle : Messages_rb 
+2014-02-02 01:39:48,790 INFO [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:92] 1 configuration file found.
+2014-02-02 01:39:48,790 INFO [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:111] Read configuration file : /home/maiklos/workspace/FXPOC/build/classes/production/FXPOC/jrebirth.properties 
+2014-02-02 01:39:48,790 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key closeRetryDelayOther with value= 1000
+2014-02-02 01:39:48,791 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key closeRetryDelayFirst with value= 4000
+2014-02-02 01:39:48,791 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key stylesFolder with value= styles
+2014-02-02 01:39:48,791 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key threadPoolSizeRatio with value= 2
+2014-02-02 01:39:48,792 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneBgColor with value= FFF||1.0
+2014-02-02 01:39:48,792 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key fontsFolder with value= fonts
+2014-02-02 01:39:48,792 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key waveHandlerPrefix with value= DO_
+2014-02-02 01:39:48,792 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneWidth with value= 800
+2014-02-02 01:39:48,792 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationVersion with value= 1.0
+2014-02-02 01:39:48,792 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationName with value= {} powered by JRebirth
+2014-02-02 01:39:48,793 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key trueTypeFontExtension with value= .ttf
+2014-02-02 01:39:48,793 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key followUpServiceTasks with value= false
+2014-02-02 01:39:48,793 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key developerMode with value= false
+2014-02-02 01:39:48,793 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key notAvailableImage with value= NotAvailableImage||png
+2014-02-02 01:39:48,793 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key defaultStyleSheet with value= default
+2014-02-02 01:39:48,793 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key logResolution with value= true
+2014-02-02 01:39:48,794 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key unprocessedWaveHandler with value= org.jrebirth.core.link.DefaultUnprocessedWaveHandler
+2014-02-02 01:39:48,794 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneHeight with value= 600
+2014-02-02 01:39:48,794 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key autoRefreshResource with value= false
+2014-02-02 01:39:48,794 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key imagesFolder with value= images
+2014-02-02 01:39:48,794 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key componentFactory with value= org.jrebirth.core.facade.DefaultComponentFactory
+2014-02-02 01:39:48,801 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Attach JAT Uncaught Exception Handler
+2014-02-02 01:39:48,803 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>0|CREATE_APPLICATION|null|org.jrebirth.sample.SampleApplication|null|
+2014-02-02 01:39:48,804 TRACE [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:101] Create the JRebirth Thread Pool
+2014-02-02 01:39:48,805 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>1|CREATE_GLOBAL_FACADE|org.jrebirth.sample.SampleApplication|org.jrebirth.core.facade.GlobalFacadeBase|null|
+2014-02-02 01:39:48,806 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>2|CREATE_NOTIFIER|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.link.NotifierBase|null|
+2014-02-02 01:39:48,807 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>3|CREATE_COMMAND_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.CommandFacade|null|
+2014-02-02 01:39:48,807 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>4|CREATE_SERVICE_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.ServiceFacade|null|
+2014-02-02 01:39:48,807 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>5|CREATE_UI_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.UiFacade|null|
+2014-02-02 01:39:48,812 TRACE [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:124] Try to load Transformed Font  fonts/DINk.ttf
+2014-02-02 01:39:48,817 TRACE [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:130] Try to load Raw Font  fonts/DINk.ttf
+2014-02-02 01:39:48,817 ERROR [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:136] Font Not Found fonts/DINk.ttf
+2014-02-02 01:39:48,834 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:207] Starting SampleApplication
+2014-02-02 01:39:48,848 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:227] SampleApplication has started successfully
+2014-02-02 01:39:48,855 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>6|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.ChainWaveCommand|null|
+2014-02-02 01:39:48,856 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Attach JIT Uncaught Exception Handler
+2014-02-02 01:39:48,857 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> ChainWaveCommand
+2014-02-02 01:39:48,857 TRACE [JIT] o.j.c.c.b.ChainWaveCommand [ChainWaveCommand.java:90] Unqueue wave N° 0 >> CALL_COMMAND relatedClass=ShowModelCommand (33eb9d5c-6dd4-45cf-9542-b1ba951164db) 
+2014-02-02 01:39:48,858 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (33eb9d5c-6dd4-45cf-9542-b1ba951164db) 
+2014-02-02 01:39:48,859 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>7|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.ShowModelCommand|null|
+2014-02-02 01:39:48,861 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>8|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:39:48,861 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>9|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:39:48,861 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> ShowModelCommand
+2014-02-02 01:39:48,862 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ShowModelCommand relatedClass=PrepareModelCommand (72668250-ad18-44d6-b2d9-5c0c2b1db907) 
+2014-02-02 01:39:48,862 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>10|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:39:48,862 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - PrepareModelCommand
+2014-02-02 01:39:48,862 TRACE [JTP Slot 1] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> PrepareModelCommand
+2014-02-02 01:39:48,863 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>11|CREATE_MODEL|org.jrebirth.core.facade.UiFacade|org.jrebirth.sample.ui.SampleModel|null|
+2014-02-02 01:39:48,864 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Listen DO_SHOW_VIEW  by SampleModel
+2014-02-02 01:39:48,864 DEBUG [JTP Slot 1] o.j.s.u.SampleModel [SampleModel.java:24] Init Sample Model
+2014-02-02 01:39:48,865 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Listen DO_HIDE_VIEW  by SampleModel
+2014-02-02 01:39:48,867 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>12|CREATE_VIEW|org.jrebirth.sample.ui.SampleModel|org.jrebirth.sample.ui.SampleView|null|
+2014-02-02 01:39:48,871 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>13|CREATE_CONTROLLER|org.jrebirth.sample.ui.SampleView|org.jrebirth.sample.ui.SampleController|null|
+2014-02-02 01:39:48,892 TRACE [JTP Slot 1] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] PrepareModelCommand consumes  CALL_COMMAND fromClass=ShowModelCommand relatedClass=PrepareModelCommand (72668250-ad18-44d6-b2d9-5c0c2b1db907) 
+2014-02-02 01:39:48,892 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ShowModelCommand relatedClass=AttachModelCommand (96910d7f-f0a5-485e-8b38-e4eaf12809cb) 
+2014-02-02 01:39:48,893 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>14|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:39:48,893 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> AttachModelCommand
+2014-02-02 01:39:48,893 DEBUG [JavaFX Application Thread] o.j.s.u.SampleView [SampleView.java:74] Start the Sample View
+2014-02-02 01:39:48,893 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] AttachModelCommand consumes  CALL_COMMAND fromClass=ShowModelCommand relatedClass=AttachModelCommand (96910d7f-f0a5-485e-8b38-e4eaf12809cb) 
+2014-02-02 01:39:48,893 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] ShowModelCommand consumes  CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (33eb9d5c-6dd4-45cf-9542-b1ba951164db) 
+2014-02-02 01:39:48,894 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] ChainWaveCommand consumes  CALL_COMMAND relatedClass=ChainWaveCommand (564e40f2-94b2-48b3-bdd1-a8db69700c65) 
+Data=>org.jrebirth.core.wave.JRebirthWaves$3@3=[CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (33eb9d5c-6dd4-45cf-9542-b1ba951164db) ]
+2014-02-02 01:40:19,135 DEBUG [JavaFX Application Thread] o.j.s.u.SampleController [SampleController.java:70] MouseClicked => Call Sample Command
+2014-02-02 01:40:19,136 INFO [JavaFX Application Thread] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>15|ACCESS_COMMAND|org.jrebirth.sample.ui.SampleModel|org.jrebirth.sample.command.SampleCommand|null|
+2014-02-02 01:40:19,137 INFO [JavaFX Application Thread] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>16|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.sample.command.SampleCommand|null|
+2014-02-02 01:40:19,138 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SampleCommand
+2014-02-02 01:40:19,138 INFO [JIT] o.j.s.c.SampleCommand [SampleCommand.java:32] Perform a short action JIT
+2014-02-02 01:40:19,138 INFO [JIT] o.j.s.c.SampleCommand [SampleCommand.java:33] Be careful it locks wave processing
+2014-02-02 01:40:19,138 TRACE [JIT] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SampleCommand consumes  CALL_COMMAND relatedClass=SampleCommand (36d8ea57-aa2d-4749-871f-51322bd57382) 
+2014-02-02 01:40:26,276 INFO [JavaFX Application Thread] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>17|CREATE_WAVE|org.jrebirth.sample.ui.SampleModel|org.jrebirth.core.wave.WaveBase|null|
+2014-02-02 01:40:26,277 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=SampleModel relatedClass=SampleUICommand (5227f9b2-2cbd-4e14-b74a-eb61282735ca) 
+2014-02-02 01:40:26,278 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>18|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.sample.command.SampleUICommand|null|
+2014-02-02 01:40:26,278 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SampleUICommand
+2014-02-02 01:40:26,278 INFO [JavaFX Application Thread] o.j.s.c.SampleUICommand [SampleUICommand.java:39] Display a pop up from JAT
+2014-02-02 01:40:26,287 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SampleUICommand consumes  CALL_COMMAND fromClass=SampleModel relatedClass=SampleUICommand (5227f9b2-2cbd-4e14-b74a-eb61282735ca) 
+2014-02-02 01:40:36,773 DEBUG [JavaFX Application Thread] o.j.s.u.SampleController [SampleController.java:86] MouseClicked => Call Sample Pool Command
+2014-02-02 01:40:36,775 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (92b8b4d6-27c4-4ff1-97bb-aa348aca9064) 
+2014-02-02 01:40:36,776 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>19|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:40:36,777 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - SamplePoolCommand
+2014-02-02 01:40:36,777 TRACE [JTP Slot 2] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SamplePoolCommand
+2014-02-02 01:40:36,777 INFO [JTP Slot 2] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:32] Perform a short or long action into a decicated thread from JTP
+2014-02-02 01:40:36,778 INFO [JTP Slot 2] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:33] Be careful the JTP size depend on configuration
+2014-02-02 01:40:36,778 TRACE [JTP Slot 2] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SamplePoolCommand consumes  CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (92b8b4d6-27c4-4ff1-97bb-aa348aca9064) 
+2014-02-02 01:40:47,669 DEBUG [JavaFX Application Thread] o.j.s.u.SampleController [SampleController.java:70] MouseClicked => Call Sample Command
+2014-02-02 01:40:47,670 INFO [JavaFX Application Thread] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>20|ACCESS_COMMAND|org.jrebirth.sample.ui.SampleModel|org.jrebirth.sample.command.SampleCommand|null|
+2014-02-02 01:40:47,671 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SampleCommand
+2014-02-02 01:40:47,671 INFO [JIT] o.j.s.c.SampleCommand [SampleCommand.java:32] Perform a short action JIT
+2014-02-02 01:40:47,671 INFO [JIT] o.j.s.c.SampleCommand [SampleCommand.java:33] Be careful it locks wave processing
+2014-02-02 01:40:47,671 TRACE [JIT] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SampleCommand consumes  CALL_COMMAND relatedClass=SampleCommand (d14554b3-b744-4cbd-8f9f-64ee305d1669) 
+2014-02-02 01:40:50,982 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>21|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:40:50,983 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>22|DESTROY_COMMAND|null|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:40:50,983 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>23|DESTROY_COMMAND|null|org.jrebirth.sample.command.SampleUICommand|null|
+2014-02-02 01:40:50,984 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>24|DESTROY_COMMAND|null|org.jrebirth.sample.command.SampleCommand|null|
+2014-02-02 01:40:50,984 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>25|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.ShowModelCommand|null|
+2014-02-02 01:40:50,984 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>26|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.ChainWaveCommand|null|
+2014-02-02 01:40:50,985 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>27|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:40:50,985 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>28|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:40:50,985 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>29|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:40:59,410 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:274] Stopping SampleApplication" 
+2014-02-02 01:41:03,411 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:302] SampleApplication has stopped successfully
+2014-02-02 01:42:10,887 INFO [JavaFX-Launcher] o.j.c.r.i.MessageBuilder [MessageBuilder.java:103] 1 Messages file found.
+2014-02-02 01:42:10,889 INFO [JavaFX-Launcher] o.j.c.r.i.MessageBuilder [MessageBuilder.java:126] Store ResourceBundle : Messages_rb 
+2014-02-02 01:42:10,958 INFO [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:92] 1 configuration file found.
+2014-02-02 01:42:10,959 INFO [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:111] Read configuration file : /home/maiklos/workspace/FXPOC/build/classes/production/FXPOC/jrebirth.properties 
+2014-02-02 01:42:10,959 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key closeRetryDelayOther with value= 1000
+2014-02-02 01:42:10,960 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key closeRetryDelayFirst with value= 4000
+2014-02-02 01:42:10,960 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key stylesFolder with value= styles
+2014-02-02 01:42:10,960 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key threadPoolSizeRatio with value= 2
+2014-02-02 01:42:10,960 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneBgColor with value= FFF||1.0
+2014-02-02 01:42:10,960 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key fontsFolder with value= fonts
+2014-02-02 01:42:10,960 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key waveHandlerPrefix with value= DO_
+2014-02-02 01:42:10,961 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneWidth with value= 800
+2014-02-02 01:42:10,961 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationVersion with value= 1.0
+2014-02-02 01:42:10,961 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationName with value= {} powered by JRebirth
+2014-02-02 01:42:10,961 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key trueTypeFontExtension with value= .ttf
+2014-02-02 01:42:10,961 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key followUpServiceTasks with value= false
+2014-02-02 01:42:10,961 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key developerMode with value= false
+2014-02-02 01:42:10,962 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key notAvailableImage with value= NotAvailableImage||png
+2014-02-02 01:42:10,962 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key defaultStyleSheet with value= default
+2014-02-02 01:42:10,962 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key logResolution with value= true
+2014-02-02 01:42:10,962 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key unprocessedWaveHandler with value= org.jrebirth.core.link.DefaultUnprocessedWaveHandler
+2014-02-02 01:42:10,962 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneHeight with value= 600
+2014-02-02 01:42:10,962 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key autoRefreshResource with value= false
+2014-02-02 01:42:10,963 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key imagesFolder with value= images
+2014-02-02 01:42:10,963 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key componentFactory with value= org.jrebirth.core.facade.DefaultComponentFactory
+2014-02-02 01:42:10,970 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Attach JAT Uncaught Exception Handler
+2014-02-02 01:42:10,973 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>0|CREATE_APPLICATION|null|org.jrebirth.sample.SampleApplication|null|
+2014-02-02 01:42:10,974 TRACE [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:101] Create the JRebirth Thread Pool
+2014-02-02 01:42:10,975 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>1|CREATE_GLOBAL_FACADE|org.jrebirth.sample.SampleApplication|org.jrebirth.core.facade.GlobalFacadeBase|null|
+2014-02-02 01:42:10,977 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>2|CREATE_NOTIFIER|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.link.NotifierBase|null|
+2014-02-02 01:42:10,978 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>3|CREATE_COMMAND_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.CommandFacade|null|
+2014-02-02 01:42:10,979 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>4|CREATE_SERVICE_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.ServiceFacade|null|
+2014-02-02 01:42:10,980 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>5|CREATE_UI_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.UiFacade|null|
+2014-02-02 01:42:10,983 TRACE [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:124] Try to load Transformed Font  fonts/DINk.ttf
+2014-02-02 01:42:10,991 TRACE [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:130] Try to load Raw Font  fonts/DINk.ttf
+2014-02-02 01:42:10,992 ERROR [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:136] Font Not Found fonts/DINk.ttf
+2014-02-02 01:42:11,007 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:207] Starting SampleApplication
+2014-02-02 01:42:11,022 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:227] SampleApplication has started successfully
+2014-02-02 01:42:11,030 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>6|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.ChainWaveCommand|null|
+2014-02-02 01:42:11,031 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Attach JIT Uncaught Exception Handler
+2014-02-02 01:42:11,032 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> ChainWaveCommand
+2014-02-02 01:42:11,033 TRACE [JIT] o.j.c.c.b.ChainWaveCommand [ChainWaveCommand.java:90] Unqueue wave N° 0 >> CALL_COMMAND relatedClass=ShowModelCommand (ce9ef0f5-318f-4ced-99ae-ca4ab654c0ac) 
+2014-02-02 01:42:11,034 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (ce9ef0f5-318f-4ced-99ae-ca4ab654c0ac) 
+2014-02-02 01:42:11,035 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>7|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.ShowModelCommand|null|
+2014-02-02 01:42:11,037 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>8|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:42:11,039 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>9|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:42:11,040 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> ShowModelCommand
+2014-02-02 01:42:11,041 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ShowModelCommand relatedClass=PrepareModelCommand (a1b46426-2f5d-4907-8374-6f06cae7dbfd) 
+2014-02-02 01:42:11,041 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>10|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:42:11,042 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - PrepareModelCommand
+2014-02-02 01:42:11,043 TRACE [JTP Slot 1] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> PrepareModelCommand
+2014-02-02 01:42:11,044 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>11|CREATE_MODEL|org.jrebirth.core.facade.UiFacade|org.jrebirth.sample.ui.SampleModel|null|
+2014-02-02 01:42:11,046 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Listen DO_SHOW_VIEW  by SampleModel
+2014-02-02 01:42:11,048 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Listen DO_HIDE_VIEW  by SampleModel
+2014-02-02 01:42:11,048 DEBUG [JTP Slot 1] o.j.s.u.SampleModel [SampleModel.java:24] Init Sample Model
+2014-02-02 01:42:11,054 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>12|CREATE_VIEW|org.jrebirth.sample.ui.SampleModel|org.jrebirth.sample.ui.SampleView|null|
+2014-02-02 01:42:11,060 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>13|CREATE_CONTROLLER|org.jrebirth.sample.ui.SampleView|org.jrebirth.sample.ui.SampleController|null|
+2014-02-02 01:42:11,086 TRACE [JTP Slot 1] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] PrepareModelCommand consumes  CALL_COMMAND fromClass=ShowModelCommand relatedClass=PrepareModelCommand (a1b46426-2f5d-4907-8374-6f06cae7dbfd) 
+2014-02-02 01:42:11,086 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ShowModelCommand relatedClass=AttachModelCommand (9ff50975-b0e3-4cbf-bb79-5a66c264c0d3) 
+2014-02-02 01:42:11,086 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>14|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:42:11,087 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> AttachModelCommand
+2014-02-02 01:42:11,087 DEBUG [JavaFX Application Thread] o.j.s.u.SampleView [SampleView.java:74] Start the Sample View
+2014-02-02 01:42:11,087 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] AttachModelCommand consumes  CALL_COMMAND fromClass=ShowModelCommand relatedClass=AttachModelCommand (9ff50975-b0e3-4cbf-bb79-5a66c264c0d3) 
+2014-02-02 01:42:11,087 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] ShowModelCommand consumes  CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (ce9ef0f5-318f-4ced-99ae-ca4ab654c0ac) 
+2014-02-02 01:42:11,088 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] ChainWaveCommand consumes  CALL_COMMAND relatedClass=ChainWaveCommand (a0d31957-c156-4803-a2fa-e69849f7a34e) 
+Data=>org.jrebirth.core.wave.JRebirthWaves$3@3=[CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (ce9ef0f5-318f-4ced-99ae-ca4ab654c0ac) ]
+2014-02-02 01:42:17,756 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:274] Stopping SampleApplication" 
+2014-02-02 01:42:21,757 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:302] SampleApplication has stopped successfully
+2014-02-02 01:49:44,463 INFO [JavaFX-Launcher] o.j.c.r.i.MessageBuilder [MessageBuilder.java:103] 1 Messages file found.
+2014-02-02 01:49:44,465 INFO [JavaFX-Launcher] o.j.c.r.i.MessageBuilder [MessageBuilder.java:126] Store ResourceBundle : Messages_rb 
+2014-02-02 01:49:44,518 INFO [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:92] 1 configuration file found.
+2014-02-02 01:49:44,518 INFO [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:111] Read configuration file : /home/maiklos/workspace/FXPOC/build/classes/production/FXPOC/jrebirth.properties 
+2014-02-02 01:49:44,519 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key closeRetryDelayOther with value= 1000
+2014-02-02 01:49:44,519 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key closeRetryDelayFirst with value= 4000
+2014-02-02 01:49:44,519 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key stylesFolder with value= styles
+2014-02-02 01:49:44,519 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key threadPoolSizeRatio with value= 2
+2014-02-02 01:49:44,519 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneBgColor with value= FFF||1.0
+2014-02-02 01:49:44,519 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key fontsFolder with value= fonts
+2014-02-02 01:49:44,520 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key waveHandlerPrefix with value= DO_
+2014-02-02 01:49:44,520 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneWidth with value= 800
+2014-02-02 01:49:44,520 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationVersion with value= 1.0
+2014-02-02 01:49:44,520 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationName with value= {} powered by JRebirth
+2014-02-02 01:49:44,520 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key trueTypeFontExtension with value= .ttf
+2014-02-02 01:49:44,520 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key followUpServiceTasks with value= false
+2014-02-02 01:49:44,520 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key developerMode with value= false
+2014-02-02 01:49:44,520 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key notAvailableImage with value= NotAvailableImage||png
+2014-02-02 01:49:44,521 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key defaultStyleSheet with value= default
+2014-02-02 01:49:44,521 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key logResolution with value= true
+2014-02-02 01:49:44,521 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key unprocessedWaveHandler with value= org.jrebirth.core.link.DefaultUnprocessedWaveHandler
+2014-02-02 01:49:44,521 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneHeight with value= 600
+2014-02-02 01:49:44,521 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key autoRefreshResource with value= false
+2014-02-02 01:49:44,521 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key imagesFolder with value= images
+2014-02-02 01:49:44,521 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key componentFactory with value= org.jrebirth.core.facade.DefaultComponentFactory
+2014-02-02 01:49:44,526 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Attach JAT Uncaught Exception Handler
+2014-02-02 01:49:44,528 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>0|CREATE_APPLICATION|null|org.jrebirth.sample.SampleApplication|null|
+2014-02-02 01:49:44,528 TRACE [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:101] Create the JRebirth Thread Pool
+2014-02-02 01:49:44,529 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>1|CREATE_GLOBAL_FACADE|org.jrebirth.sample.SampleApplication|org.jrebirth.core.facade.GlobalFacadeBase|null|
+2014-02-02 01:49:44,531 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>2|CREATE_NOTIFIER|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.link.NotifierBase|null|
+2014-02-02 01:49:44,532 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>3|CREATE_COMMAND_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.CommandFacade|null|
+2014-02-02 01:49:44,532 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>4|CREATE_SERVICE_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.ServiceFacade|null|
+2014-02-02 01:49:44,532 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>5|CREATE_UI_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.UiFacade|null|
+2014-02-02 01:49:44,535 TRACE [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:124] Try to load Transformed Font  fonts/DINk.ttf
+2014-02-02 01:49:44,540 TRACE [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:130] Try to load Raw Font  fonts/DINk.ttf
+2014-02-02 01:49:44,541 ERROR [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:136] Font Not Found fonts/DINk.ttf
+2014-02-02 01:49:44,548 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:207] Starting SampleApplication
+2014-02-02 01:49:44,562 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:227] SampleApplication has started successfully
+2014-02-02 01:49:44,569 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>6|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.ChainWaveCommand|null|
+2014-02-02 01:49:44,570 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Attach JIT Uncaught Exception Handler
+2014-02-02 01:49:44,571 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> ChainWaveCommand
+2014-02-02 01:49:44,571 TRACE [JIT] o.j.c.c.b.ChainWaveCommand [ChainWaveCommand.java:90] Unqueue wave N° 0 >> CALL_COMMAND relatedClass=ShowModelCommand (6f73a618-0f43-43d4-9260-0f4f9470da42) 
+2014-02-02 01:49:44,572 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (6f73a618-0f43-43d4-9260-0f4f9470da42) 
+2014-02-02 01:49:44,573 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>7|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.ShowModelCommand|null|
+2014-02-02 01:49:44,575 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>8|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:49:44,576 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>9|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:49:44,577 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> ShowModelCommand
+2014-02-02 01:49:44,577 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ShowModelCommand relatedClass=PrepareModelCommand (62016cfa-efa9-40f2-9583-fc0d2a49d3fd) 
+2014-02-02 01:49:44,577 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>10|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:49:44,577 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - PrepareModelCommand
+2014-02-02 01:49:44,577 TRACE [JTP Slot 1] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> PrepareModelCommand
+2014-02-02 01:49:44,578 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>11|CREATE_MODEL|org.jrebirth.core.facade.UiFacade|org.jrebirth.sample.ui.SampleModel|null|
+2014-02-02 01:49:44,579 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Listen DO_SHOW_VIEW  by SampleModel
+2014-02-02 01:49:44,580 DEBUG [JTP Slot 1] o.j.s.u.SampleModel [SampleModel.java:24] Init Sample Model
+2014-02-02 01:49:44,580 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Listen DO_HIDE_VIEW  by SampleModel
+2014-02-02 01:49:44,582 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>12|CREATE_VIEW|org.jrebirth.sample.ui.SampleModel|org.jrebirth.sample.ui.SampleView|null|
+2014-02-02 01:49:44,586 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>13|CREATE_CONTROLLER|org.jrebirth.sample.ui.SampleView|org.jrebirth.sample.ui.SampleController|null|
+2014-02-02 01:49:44,605 TRACE [JTP Slot 1] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] PrepareModelCommand consumes  CALL_COMMAND fromClass=ShowModelCommand relatedClass=PrepareModelCommand (62016cfa-efa9-40f2-9583-fc0d2a49d3fd) 
+2014-02-02 01:49:44,605 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ShowModelCommand relatedClass=AttachModelCommand (08148413-2b91-4482-9c37-ef618014ce5b) 
+2014-02-02 01:49:44,605 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>14|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:49:44,606 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> AttachModelCommand
+2014-02-02 01:49:44,606 DEBUG [JavaFX Application Thread] o.j.s.u.SampleView [SampleView.java:74] Start the Sample View
+2014-02-02 01:49:44,606 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] AttachModelCommand consumes  CALL_COMMAND fromClass=ShowModelCommand relatedClass=AttachModelCommand (08148413-2b91-4482-9c37-ef618014ce5b) 
+2014-02-02 01:49:44,606 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] ShowModelCommand consumes  CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (6f73a618-0f43-43d4-9260-0f4f9470da42) 
+2014-02-02 01:49:44,606 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] ChainWaveCommand consumes  CALL_COMMAND relatedClass=ChainWaveCommand (3a44c46c-3c83-4cc4-a132-ef554aac723b) 
+Data=>org.jrebirth.core.wave.JRebirthWaves$3@3=[CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (6f73a618-0f43-43d4-9260-0f4f9470da42) ]
+2014-02-02 01:49:56,860 INFO [JavaFX Application Thread] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>15|CREATE_WAVE|org.jrebirth.sample.ui.SampleModel|org.jrebirth.core.wave.WaveBase|null|
+2014-02-02 01:49:56,860 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=SampleModel relatedClass=SampleUICommand (482f815d-19de-4bdf-bbe6-9bac61355200) 
+2014-02-02 01:49:56,861 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>16|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.sample.command.SampleUICommand|null|
+2014-02-02 01:49:56,862 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SampleUICommand
+2014-02-02 01:49:56,862 INFO [JavaFX Application Thread] o.j.s.c.SampleUICommand [SampleUICommand.java:39] Display a pop up from JAT
+2014-02-02 01:49:56,871 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SampleUICommand consumes  CALL_COMMAND fromClass=SampleModel relatedClass=SampleUICommand (482f815d-19de-4bdf-bbe6-9bac61355200) 
+2014-02-02 01:50:10,709 DEBUG [JavaFX Application Thread] o.j.s.u.SampleController [SampleController.java:86] MouseClicked => Call Sample Pool Command
+2014-02-02 01:50:10,711 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (2b6a32a8-5ded-4222-9b8a-cd5c9f3a1097) 
+2014-02-02 01:50:10,712 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>17|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:10,713 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - SamplePoolCommand
+2014-02-02 01:50:10,713 TRACE [JTP Slot 2] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SamplePoolCommand
+2014-02-02 01:50:10,713 INFO [JTP Slot 2] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:32] Perform a short or long action into a decicated thread from JTP
+2014-02-02 01:50:10,714 INFO [JTP Slot 2] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:33] Be careful the JTP size depend on configuration
+2014-02-02 01:50:10,714 TRACE [JTP Slot 2] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SamplePoolCommand consumes  CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (2b6a32a8-5ded-4222-9b8a-cd5c9f3a1097) 
+2014-02-02 01:50:11,241 DEBUG [JavaFX Application Thread] o.j.s.u.SampleController [SampleController.java:86] MouseClicked => Call Sample Pool Command
+2014-02-02 01:50:11,242 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (7dcea731-1737-4723-bdb8-df5b9c9f2ff6) 
+2014-02-02 01:50:11,243 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>18|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:11,243 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - SamplePoolCommand
+2014-02-02 01:50:11,244 TRACE [JTP Slot 3] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SamplePoolCommand
+2014-02-02 01:50:11,244 INFO [JTP Slot 3] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:32] Perform a short or long action into a decicated thread from JTP
+2014-02-02 01:50:11,244 INFO [JTP Slot 3] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:33] Be careful the JTP size depend on configuration
+2014-02-02 01:50:11,245 TRACE [JTP Slot 3] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SamplePoolCommand consumes  CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (7dcea731-1737-4723-bdb8-df5b9c9f2ff6) 
+2014-02-02 01:50:12,439 DEBUG [JavaFX Application Thread] o.j.s.u.SampleController [SampleController.java:86] MouseClicked => Call Sample Pool Command
+2014-02-02 01:50:12,440 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (abcacf1a-1228-497c-b1cc-e75a99ecc5e8) 
+2014-02-02 01:50:12,441 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>19|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:12,442 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - SamplePoolCommand
+2014-02-02 01:50:12,442 TRACE [JTP Slot 4] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SamplePoolCommand
+2014-02-02 01:50:12,442 INFO [JTP Slot 4] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:32] Perform a short or long action into a decicated thread from JTP
+2014-02-02 01:50:12,442 INFO [JTP Slot 4] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:33] Be careful the JTP size depend on configuration
+2014-02-02 01:50:12,443 TRACE [JTP Slot 4] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SamplePoolCommand consumes  CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (abcacf1a-1228-497c-b1cc-e75a99ecc5e8) 
+2014-02-02 01:50:14,029 DEBUG [JavaFX Application Thread] o.j.s.u.SampleController [SampleController.java:86] MouseClicked => Call Sample Pool Command
+2014-02-02 01:50:14,030 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (a681d0d4-3b7c-40aa-91c4-09e32c060cf0) 
+2014-02-02 01:50:14,031 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>20|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:14,031 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - SamplePoolCommand
+2014-02-02 01:50:14,032 TRACE [JTP Slot 5] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SamplePoolCommand
+2014-02-02 01:50:14,032 INFO [JTP Slot 5] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:32] Perform a short or long action into a decicated thread from JTP
+2014-02-02 01:50:14,032 INFO [JTP Slot 5] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:33] Be careful the JTP size depend on configuration
+2014-02-02 01:50:14,032 TRACE [JTP Slot 5] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SamplePoolCommand consumes  CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (a681d0d4-3b7c-40aa-91c4-09e32c060cf0) 
+2014-02-02 01:50:14,475 DEBUG [JavaFX Application Thread] o.j.s.u.SampleController [SampleController.java:86] MouseClicked => Call Sample Pool Command
+2014-02-02 01:50:14,476 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (03c88607-8163-4044-a26d-21b03f75fd7c) 
+2014-02-02 01:50:14,477 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>21|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:14,477 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - SamplePoolCommand
+2014-02-02 01:50:14,478 TRACE [JTP Slot 6] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> SamplePoolCommand
+2014-02-02 01:50:14,478 INFO [JTP Slot 6] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:32] Perform a short or long action into a decicated thread from JTP
+2014-02-02 01:50:14,478 INFO [JTP Slot 6] o.j.s.c.SamplePoolCommand [SamplePoolCommand.java:33] Be careful the JTP size depend on configuration
+2014-02-02 01:50:14,479 TRACE [JTP Slot 6] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] SamplePoolCommand consumes  CALL_COMMAND fromClass=SampleModel relatedClass=SamplePoolCommand (03c88607-8163-4044-a26d-21b03f75fd7c) 
+2014-02-02 01:50:19,604 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>22|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.ChainWaveCommand|null|
+2014-02-02 01:50:19,605 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>23|DESTROY_COMMAND|null|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:19,605 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>24|DESTROY_COMMAND|null|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:19,605 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>25|DESTROY_COMMAND|null|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:19,605 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>26|DESTROY_COMMAND|null|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:19,606 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>27|DESTROY_COMMAND|null|org.jrebirth.sample.command.SamplePoolCommand|null|
+2014-02-02 01:50:19,606 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>28|DESTROY_COMMAND|null|org.jrebirth.sample.command.SampleUICommand|null|
+2014-02-02 01:50:19,607 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>29|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:50:19,607 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>30|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.ShowModelCommand|null|
+2014-02-02 01:50:19,607 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>31|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:50:19,608 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>32|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 01:50:19,608 INFO [Finalizer] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>33|DESTROY_COMMAND|null|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 01:50:37,965 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:274] Stopping SampleApplication" 
+2014-02-02 01:50:41,966 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:302] SampleApplication has stopped successfully
+2014-02-02 02:00:39,015 INFO [JavaFX-Launcher] o.j.c.r.i.MessageBuilder [MessageBuilder.java:103] 1 Messages file found.
+2014-02-02 02:00:39,017 INFO [JavaFX-Launcher] o.j.c.r.i.MessageBuilder [MessageBuilder.java:126] Store ResourceBundle : Messages_rb 
+2014-02-02 02:00:39,065 INFO [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:92] 1 configuration file found.
+2014-02-02 02:00:39,065 INFO [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:111] Read configuration file : /home/maiklos/workspace/FXPOC/build/classes/production/FXPOC/jrebirth.properties 
+2014-02-02 02:00:39,066 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key closeRetryDelayOther with value= 1000
+2014-02-02 02:00:39,066 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key closeRetryDelayFirst with value= 4000
+2014-02-02 02:00:39,066 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key stylesFolder with value= styles
+2014-02-02 02:00:39,066 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key threadPoolSizeRatio with value= 2
+2014-02-02 02:00:39,066 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneBgColor with value= FFF||1.0
+2014-02-02 02:00:39,066 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key fontsFolder with value= fonts
+2014-02-02 02:00:39,066 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key waveHandlerPrefix with value= DO_
+2014-02-02 02:00:39,067 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneWidth with value= 800
+2014-02-02 02:00:39,067 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationVersion with value= 1.0
+2014-02-02 02:00:39,067 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationName with value= {} powered by JRebirth
+2014-02-02 02:00:39,067 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key trueTypeFontExtension with value= .ttf
+2014-02-02 02:00:39,067 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key followUpServiceTasks with value= false
+2014-02-02 02:00:39,067 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key developerMode with value= false
+2014-02-02 02:00:39,067 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key notAvailableImage with value= NotAvailableImage||png
+2014-02-02 02:00:39,067 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key defaultStyleSheet with value= default
+2014-02-02 02:00:39,068 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key logResolution with value= true
+2014-02-02 02:00:39,068 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key unprocessedWaveHandler with value= org.jrebirth.core.link.DefaultUnprocessedWaveHandler
+2014-02-02 02:00:39,068 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key applicationSceneHeight with value= 600
+2014-02-02 02:00:39,068 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key autoRefreshResource with value= false
+2014-02-02 02:00:39,068 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key imagesFolder with value= images
+2014-02-02 02:00:39,068 TRACE [JavaFX-Launcher] o.j.c.r.p.ParameterBuilder [ParameterBuilder.java:122] Store key componentFactory with value= org.jrebirth.core.facade.DefaultComponentFactory
+2014-02-02 02:00:39,074 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Attach JAT Uncaught Exception Handler
+2014-02-02 02:00:39,075 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>0|CREATE_APPLICATION|null|org.jrebirth.sample.SampleApplication|null|
+2014-02-02 02:00:39,076 TRACE [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:101] Create the JRebirth Thread Pool
+2014-02-02 02:00:39,077 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>1|CREATE_GLOBAL_FACADE|org.jrebirth.sample.SampleApplication|org.jrebirth.core.facade.GlobalFacadeBase|null|
+2014-02-02 02:00:39,078 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>2|CREATE_NOTIFIER|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.link.NotifierBase|null|
+2014-02-02 02:00:39,079 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>3|CREATE_COMMAND_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.CommandFacade|null|
+2014-02-02 02:00:39,079 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>4|CREATE_SERVICE_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.ServiceFacade|null|
+2014-02-02 02:00:39,080 INFO [JavaFX-Launcher] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>5|CREATE_UI_FACADE|org.jrebirth.core.facade.GlobalFacadeBase|org.jrebirth.core.facade.UiFacade|null|
+2014-02-02 02:00:39,083 TRACE [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:124] Try to load Transformed Font  fonts/DINk.ttf
+2014-02-02 02:00:39,089 TRACE [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:130] Try to load Raw Font  fonts/DINk.ttf
+2014-02-02 02:00:39,089 ERROR [JavaFX-Launcher] o.j.c.r.f.FontBuilder [FontBuilder.java:136] Font Not Found fonts/DINk.ttf
+2014-02-02 02:00:39,097 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:207] Starting SampleApplication
+2014-02-02 02:00:39,114 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:227] SampleApplication has started successfully
+2014-02-02 02:00:39,121 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>6|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.ChainWaveCommand|null|
+2014-02-02 02:00:39,123 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Attach JIT Uncaught Exception Handler
+2014-02-02 02:00:39,124 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> ChainWaveCommand
+2014-02-02 02:00:39,124 TRACE [JIT] o.j.c.c.b.ChainWaveCommand [ChainWaveCommand.java:90] Unqueue wave N° 0 >> CALL_COMMAND relatedClass=ShowModelCommand (3e73893d-5c7e-462a-8737-5d0854844f60) 
+2014-02-02 02:00:39,126 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (3e73893d-5c7e-462a-8737-5d0854844f60) 
+2014-02-02 02:00:39,126 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>7|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.ShowModelCommand|null|
+2014-02-02 02:00:39,128 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>8|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 02:00:39,128 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>9|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 02:00:39,128 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> ShowModelCommand
+2014-02-02 02:00:39,129 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ShowModelCommand relatedClass=PrepareModelCommand (1b28308b-1468-4bdf-bc9f-58ca7741017a) 
+2014-02-02 02:00:39,129 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>10|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.PrepareModelCommand|null|
+2014-02-02 02:00:39,129 TRACE [JIT] o.j.c.c.JRebirthThread [JRebirthThread.java:107] Runnable submitted to JTP with hashCode=JRebirthRunnable - PrepareModelCommand
+2014-02-02 02:00:39,129 TRACE [JTP Slot 1] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> PrepareModelCommand
+2014-02-02 02:00:39,130 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>11|CREATE_MODEL|org.jrebirth.core.facade.UiFacade|org.jrebirth.sample.ui.SampleModel|null|
+2014-02-02 02:00:39,131 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Listen DO_SHOW_VIEW  by SampleModel
+2014-02-02 02:00:39,131 DEBUG [JTP Slot 1] o.j.s.u.SampleModel [SampleModel.java:24] Init Sample Model
+2014-02-02 02:00:39,132 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Listen DO_HIDE_VIEW  by SampleModel
+2014-02-02 02:00:39,133 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>12|CREATE_VIEW|org.jrebirth.sample.ui.SampleModel|org.jrebirth.sample.ui.SampleView|null|
+2014-02-02 02:00:39,137 INFO [JTP Slot 1] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>13|CREATE_CONTROLLER|org.jrebirth.sample.ui.SampleView|org.jrebirth.sample.ui.SampleController|null|
+2014-02-02 02:00:39,157 TRACE [JTP Slot 1] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] PrepareModelCommand consumes  CALL_COMMAND fromClass=ShowModelCommand relatedClass=PrepareModelCommand (1b28308b-1468-4bdf-bc9f-58ca7741017a) 
+2014-02-02 02:00:39,158 TRACE [JIT] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> Send Wave CALL_COMMAND fromClass=ShowModelCommand relatedClass=AttachModelCommand (d979e804-423e-4aa8-a4e8-4f645c0dfffa) 
+2014-02-02 02:00:39,158 INFO [JIT] o.j.c.f.GlobalFacadeBase [GlobalFacadeBase.java:142] JREvent>>14|CREATE_COMMAND|org.jrebirth.core.facade.CommandFacade|org.jrebirth.core.command.basic.showmodel.AttachModelCommand|null|
+2014-02-02 02:00:39,159 TRACE [JavaFX Application Thread] o.j.c.c.AbstractJrbRunnable [AbstractJrbRunnable.java:75] Run> AttachModelCommand
+2014-02-02 02:00:39,159 DEBUG [JavaFX Application Thread] o.j.s.u.SampleView [SampleView.java:74] Start the Sample View
+2014-02-02 02:00:39,159 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] AttachModelCommand consumes  CALL_COMMAND fromClass=ShowModelCommand relatedClass=AttachModelCommand (d979e804-423e-4aa8-a4e8-4f645c0dfffa) 
+2014-02-02 02:00:39,159 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] ShowModelCommand consumes  CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (3e73893d-5c7e-462a-8737-5d0854844f60) 
+2014-02-02 02:00:39,159 TRACE [JavaFX Application Thread] o.j.c.c.AbstractBaseCommand [AbstractBaseCommand.java:244] ChainWaveCommand consumes  CALL_COMMAND relatedClass=ChainWaveCommand (8baa5f03-16f0-43a7-ad61-43ee9411179a) 
+Data=>org.jrebirth.core.wave.JRebirthWaves$3@3=[CALL_COMMAND fromClass=ChainWaveCommand relatedClass=ShowModelCommand (3e73893d-5c7e-462a-8737-5d0854844f60) ]
+2014-02-02 02:00:41,048 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:274] Stopping SampleApplication" 
+2014-02-02 02:00:45,049 TRACE [JavaFX Application Thread] o.j.c.a.AbstractApplication [AbstractApplication.java:302] SampleApplication has stopped successfully

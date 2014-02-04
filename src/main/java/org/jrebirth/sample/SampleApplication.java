@@ -1,20 +1,28 @@
-package org.compendiumng.fxpoc;
-
+package org.jrebirth.sample;
 
 import javafx.scene.Scene;
 import javafx.scene.layout.StackPane;
 import javafx.stage.Stage;
+import org.jrebirth.core.application.DefaultApplication;
+import org.jrebirth.core.resource.font.FontItem;
+import org.jrebirth.core.ui.Model;
+import org.jrebirth.sample.resources.SampleFonts;
+import org.jrebirth.sample.resources.SampleStyles;
+import org.jrebirth.sample.ui.SampleModel;
 
-import java.awt.image.SampleModel;
 import java.util.Arrays;
 import java.util.List;
 
-
+/**
+ * The class <strong>SampleApplication</strong>.
+ * 
+ * @author
+ */
 public final class SampleApplication extends DefaultApplication<StackPane> {
 
     /**
      * Application launcher.
-     *
+     * 
      * @param args the command line arguments
      */
     public static void main(final String... args) {
@@ -50,11 +58,9 @@ public final class SampleApplication extends DefaultApplication<StackPane> {
      */
     @Override
     public List<FontItem> getFontToPreload() {
-        return Arrays.asList(new FontItem[]{
+        return Arrays.asList(new FontItem[] {
                 SampleFonts.SPLASH,
         });
     }
-
-
 
 }
